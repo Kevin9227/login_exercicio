@@ -1,5 +1,5 @@
 body{
-	background:  url('../img/319137.jpg') ;
+	background:  url('../Img/jok.jpg')  ;
 	background-position: center;
 	background-size: cover;
 	margin:0;
@@ -78,6 +78,8 @@ h1{
 	color:#fff;
 }
 
-}@media(max-width:768px){
-	body, div .corpo , img .avatar , h1 p, a
+/*@media(max-width:768px){
+	{
+		body, div .corpo , img .avatar , h1 p, a,
 	}
+}*/
